@@ -23,12 +23,7 @@
 <td>Nguyễn Thị Ngọc Linh</td> 
 <td>030236200076</td> 
 <td>Phần 2</td> 
-</tr> 
-<tr> 
-<td>Nguyễn Thị Ngọc Linh</td> 
-<td>030236200076</td> 
-<td>Phần 2</td> 
-</tr> 
+</tr>  
 <tr> 
 <td>Trương Nguyễn Huyền Diệu</td> 
 <td>030236200076</td> 
