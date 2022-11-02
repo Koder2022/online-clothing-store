@@ -32,7 +32,7 @@
 <tr> 
 <td>Nguyễn Đắc Khải</td> 
 <td>030236200070</td> 
-<td>Phần 5</td> 
+<td>Phần 6</td> 
 </tr> 
 </table> 
 </body> 
